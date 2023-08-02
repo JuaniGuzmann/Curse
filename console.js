@@ -16,5 +16,3 @@ console.log("HelloWordl")
 console.log("HelloWordl") 
 main
 
-console.log("HelloWordl")  
-console.log("HelloWordl")
