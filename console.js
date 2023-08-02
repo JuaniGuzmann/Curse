@@ -1,3 +1,4 @@
+ main
 // A comment
 console.log("HelloWordl")
 console.log("HelloWordl")
@@ -9,3 +10,8 @@ function main(){
 main()
 
 console.log(main)
+
+//Coment
+console.log("HelloWordl")  
+console.log("HelloWordl") 
+main
