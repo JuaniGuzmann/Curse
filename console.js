@@ -2,7 +2,7 @@
 // A comment
 console.log("HelloWordl")
 console.log("HelloWordl")
-console.log("HelloWordl") //Otro Comentario
+//Otro Comentario
 
 function main(){
   return: null;
@@ -13,6 +13,6 @@ console.log(main)
 
 //Coment
 console.log("HelloWordl")  
-console.log("HelloWordl") 
+
 main
 
