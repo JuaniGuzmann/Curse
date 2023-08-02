@@ -9,3 +9,6 @@ function main(){
 main()
 
 console.log(main)
+
+// a coment
+console.log("Hello Wordl")
